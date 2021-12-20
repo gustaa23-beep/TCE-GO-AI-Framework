@@ -1,6 +1,6 @@
 from datetime import date, timedelta
 import sys
-
+import socket
 import jaydebeapi
 from pandas import DataFrame
 from pkg_resources import resource_filename
